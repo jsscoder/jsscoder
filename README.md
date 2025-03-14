@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar Goje (jsscoder)</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">HELLO I AM LEARNING TO CODE BY BUILDING INTERSETED IN FULL STACK DEV ML AND CLOUD</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jsscoder&label=Profile%20views&color=0e75b6&style=flat" alt="jsscoder" />
