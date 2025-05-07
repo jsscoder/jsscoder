@@ -1,39 +1,46 @@
+<img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Omkar Goje (jsscoder)</h1>
 <h3 align="center">Aspiring Full Stack Developer | ML Enthusiast | Cloud Computing Learner</h3>
 
-<!-- 👁️ Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jsscoder&label=Profile%20views&color=0e75b6&style=flat" alt="jsscoder" />
-</p>
-
-<!-- 🏆 GitHub Trophy -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jsscoder&theme=radical&row=1&column=7" alt="GitHub Trophy" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jsscoder&label=Profile%20views&color=0e75b6&style=flat" />
+</div>
 
 ---
 
-<!-- 🎨 Animated Banner -->
+<!-- 🧠 Typing Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F2EA&center=true&vCenter=true&width=435&lines=Hey!+I'm+Omkar+(jsscoder)+👋;I+Love+to+Build+Cool+Projects;Full+Stack+%7C+ML+%7C+Cloud+Enthusiast;Learning+By+Doing+Everyday!🚀" alt="Typing SVG" />
 </p>
 
 ---
 
-## 📘 Currently Learning
+## 👨‍💻 About Me
 
-- 🧠 **GoLang** – for backend performance and concurrency
-- ⚡ **FastAPI** – for building high-performance APIs with Python
+<div align="center">
+
+🔭 I’m currently working on **real-world full stack projects**  
+🌱 I’m currently learning **GoLang** & **FastAPI**  
+💬 Ask me about **React, Python, ML, or anything [here](https://github.com/jsscoder/jsscoder/issues)**  
+
+</div>
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages, Frameworks & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,go,react,nodejs,html,css,js,ts,mongodb,postgres,docker,git,tailwind" />
+</div>
+
+---
+
+## 🏆 GitHub Trophy
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,go,react,nodejs,html,css,js,ts,mongodb,postgres,docker,git,tailwind" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jsscoder&theme=radical&row=1&column=7" alt="GitHub Trophy" />
   </a>
 </p>
 
@@ -63,4 +70,14 @@
 
 ---
 
+## 💖 Support My Work
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/jsscoder">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+  &nbsp;
+  <a href="https://ko-fi.com/jsscoder">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" />
+  </a>
+</p>
