@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" width="100%" />
+<img src="https://media3.giphy.com/media/8m15gry8jJoUYgkNUg/200.webp?cid=ecf05e47ofck3swt9mwdtg6ys50wb2uel4bffik2i4t1rw95&ep=v1_gifs_search&rid=200.webp&ct=g" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Omkar Goje (jsscoder)</h1>
 <h3 align="center">Aspiring Full Stack Developer | ML Enthusiast | Cloud Computing Learner</h3>
