@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" width="100%" />
+<img src="https://giphy.com/gifs/anime-kaoruko-the-fragrant-flower-zEj4itoJj6h02DIFc9" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Omkar Goje (jsscoder)</h1>
 <h3 align="center">Aspiring Full Stack Developer | ML Enthusiast | Cloud Computing Learner</h3>
