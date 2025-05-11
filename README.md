@@ -31,7 +31,7 @@
 ## 🛠️ Languages, Frameworks & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,go,react,nodejs,html,css,js,ts,mongodb,postgres,docker,git,tailwind" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,go,react,nodejs,html,css,js,ts,mongodb,postgres,docker,git,tailwind,java,flask,next-js" />
 </div>
 
 ---
