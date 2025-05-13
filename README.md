@@ -1,7 +1,7 @@
 <img src="https://media3.giphy.com/media/8m15gry8jJoUYgkNUg/200.webp?cid=ecf05e47ofck3swt9mwdtg6ys50wb2uel4bffik2i4t1rw95&ep=v1_gifs_search&rid=200.webp&ct=g" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Omkar Goje (jsscoder)</h1>
-<h3 align="center">Aspiring Full Stack Developer | ML Enthusiast | Cloud Computing Learner</h3>
+<h3 align="center">Full Stack Developer | Aspiring  ML Enthusiast | Cloud Computing Learner</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jsscoder&label=Profile%20views&color=0e75b6&style=flat" />
