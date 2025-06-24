@@ -1,4 +1,4 @@
-<img src="https://media3.giphy.com/media/8m15gry8jJoUYgkNUg/200.webp?cid=ecf05e47ofck3swt9mwdtg6ys50wb2uel4bffik2i4t1rw95&ep=v1_gifs_search&rid=200.webp&ct=g" width="100%" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWppMGw1N3RkZXFsNTlvMG5ldHJhaTYycWE4M2Q1bnZydXpiemVmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/amrNGnZUeWhZC/giphy.gif" />
 
 <h1 align="center">Hi 👋, I'm Omkar Goje (jsscoder)</h1>
 <h3 align="center">Full Stack Developer | Aspiring  ML Enthusiast | Cloud Computing Learner</h3>
