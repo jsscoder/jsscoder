@@ -1,7 +1,9 @@
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWppMGw1N3RkZXFsNTlvMG5ldHJhaTYycWE4M2Q1bnZydXpiemVmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/amrNGnZUeWhZC/giphy.gif" />
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWppMGw1N3RkZXFsNTlvMG5ldHJhaTYycWE4M2Q1bnZydXpiemVmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/amrNGnZUeWhZC/giphy.gif" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Omkar Goje (jsscoder)</h1>
-<h3 align="center">Full Stack Developer | Aspiring  ML Enthusiast | Cloud Computing Learner</h3>
+<h3 align="center">Full Stack Developer | Aspiring ML Enthusiast | Cloud Computing Learner</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jsscoder&label=Profile%20views&color=0e75b6&style=flat" />
@@ -67,6 +69,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsscoder&theme=tokyonight" />
 </p>
-
----
-
