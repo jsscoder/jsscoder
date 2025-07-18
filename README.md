@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWppMGw1N3RkZXFsNTlvMG5ldHJhaTYycWE4M2Q1bnZydXpiemVmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/amrNGnZUeWhZC/giphy.gif" />
+  <img src="https://tenor.com/view/nobara-nobara-kugisaki-kugisaki-girl-anime-girl-gif-3966307103296166393" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Omkar Goje (jsscoder)</h1>
