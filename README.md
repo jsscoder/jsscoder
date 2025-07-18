@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/view/nobara-nobara-kugisaki-kugisaki-girl-anime-girl-gif-3966307103296166393" />
+  <img src="https://media.tenor.com/NwsnS8oTmfkAAAAM/nobara-nobara-kugisaki.gif" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Omkar Goje (jsscoder)</h1>
