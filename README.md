@@ -1,71 +1,63 @@
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cjgzYTBmdms4a24yczRsY201Nzlzd3FteTN0a2wycmlkNGxxYTdwMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mf4qECoTz8ZVK/giphy.webp" />
-</p>
+# Omkar Goje (jsscoder)
 
-<h1 align="center">Hi 👋, I'm Omkar Goje (jsscoder)</h1>
-<h3 align="center">Full Stack Developer | Aspiring ML Enthusiast | Cloud Computing Learner</h3>
+**Full-Stack Developer | AI/ML Engineer (in progress) | Systems-first mindset**
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jsscoder&label=Profile%20views&color=0e75b6&style=flat" />
-</div>
+I build **production-grade backends**, scalable APIs, and real-world systems.
+No toy projects. No tutorial hell.
 
 ---
 
-<!-- 🧠 Typing Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F2EA&center=true&vCenter=true&width=435&lines=Hey!+I'm+Omkar+(jsscoder)+👋;I+Love+to+Build+Cool+Projects;Full+Stack+%7C+ML+%7C+Cloud+Enthusiast;Learning+By+Doing+Everyday!🚀" alt="Typing SVG" />
-</p>
+## What I Do
+- Backend engineering with **Node.js, FastAPI, Go**
+- Full-stack apps with **React / Next.js**
+- Applied **ML & data pipelines** (not just notebooks)
+- Cloud & infra fundamentals (**Docker, DBs, Linux**)
 
 ---
 
-## 👨‍💻 About Me
-
-<div align="center">
-
-🔭 I’m currently working on **real-world full stack projects**  
-🌱 I’m currently learning **GoLang** & **FastAPI**  
-💬 Ask me about **React, Python, ML, or anything [here](https://github.com/jsscoder/jsscoder/issues)**  
-
-</div>
+## Current Focus
+- Writing **clean, typed, testable backends**
+- Learning **Go** for systems & performance
+- ML beyond buzzwords → **deployment & inference**
+- Designing APIs that don’t break under load
 
 ---
 
-## 🛠️ Languages, Frameworks & Tools
+## Tech Stack
+**Languages**
+- Python, JavaScript, TypeScript, Go, Java
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,go,react,nodejs,html,css,js,ts,mongodb,postgres,docker,git,tailwind,java,flask,next-js" />
-</div>
+**Backend**
+- Node.js, FastAPI, Flask
+- REST, Auth, Rate-limiting, Queues
 
----
+**Frontend**
+- React, Next.js, Tailwind
 
-## 🏆 GitHub Trophy
+**Databases**
+- MongoDB, PostgreSQL
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jsscoder&theme=radical&row=1&column=7" alt="GitHub Trophy" />
-  </a>
-</p>
-
----
-
-## 📜 Quote of the Day
-
-<p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&font=Ubuntu&animation=default&layout=default" alt="Quote" />
-</p>
+**Infra**
+- Docker, Git, Linux
 
 ---
 
-## 📊 GitHub Stats
+## Experience
+- **AI/ML & SDE Intern – BISAG-N (MeitY, Govt. of India)**
+  - Delhi, Jor Bagh (Defence Wing)
+  - Worked on real-world, mission-critical systems
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsscoder&layout=compact&theme=tokyonight" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jsscoder&show_icons=true&theme=tokyonight" />
-</p>
+## Philosophy
+- Ship > polish
+- Fundamentals > frameworks
+- Systems > shortcuts
+- Discipline beats motivation
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsscoder&theme=tokyonight" />
-</p>
+---
+
+## Contact
+- GitHub: https://github.com/jsscoder
+- Issues / discussions: use GitHub, not DMs
+
