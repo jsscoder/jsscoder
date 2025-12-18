@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c2ttemZvdXd5dDFiYmRyeDd5aW0weDhnbjg3bTd2aDliZWU3ZXl3dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0Iymo6MEqAJfHaso/200.webp" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cjgzYTBmdms4a24yczRsY201Nzlzd3FteTN0a2wycmlkNGxxYTdwMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mf4qECoTz8ZVK/giphy.webp" />
 </p>
 
 # Omkar Goje (jsscoder)
