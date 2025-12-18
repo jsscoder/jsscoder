@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG5tbWJ4bHN6cXhteXBhamk0NHhrZTNoeGlraHVkaTdhYTJoMWMyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mjyfTIW9g8BSeyICQX/giphy.gif" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cjgzYTBmdms4a24yczRsY201Nzlzd3FteTN0a2wycmlkNGxxYTdwMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mf4qECoTz8ZVK/giphy.webp" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Omkar Goje (jsscoder)</h1>
