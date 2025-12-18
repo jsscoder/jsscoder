@@ -47,9 +47,5 @@ Ship > polish
 Fundamentals > frameworks  
 Systems > shortcuts  
 
----
-
-## Contact
-GitHub → https://github.com/jsscoder
 
 
