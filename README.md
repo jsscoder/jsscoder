@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cjgzYTBmdms4a24yczRsY201Nzlzd3FteTN0a2wycmlkNGxxYTdwMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mf4qECoTz8ZVK/giphy.webp" width="100%" height="200" style="object-fit: cover;" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cjgzYTBmdms4a24yczRsY201Nzlzd3FteTN0a2wycmlkNGxxYTdwMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mf4qECoTz8ZVK/giphy.webp" width="800" height="600" />
   
   <br/>
   
@@ -55,6 +55,6 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jsscoder&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Omkar's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsscoder&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jsscoder&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsscoder&layout=compact&theme=radical&hide_border=true" />
 </div>
