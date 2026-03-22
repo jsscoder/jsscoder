@@ -3,12 +3,11 @@
 
   <h1>Omkar Goje <span style="font-size: 0.6em; color: #8b949e;">(@jsscoder)</span></h1>
 
-  <h3>Computer Science Graduate • Backend & ML Systems</h3>
+  <h3>Backend Engineer • ML Systems</h3>
 
   <p>
-    I build backend services and ML pipelines with a focus on reliability, clarity,
-    and real-world constraints.<br/>
-    Interested in systems that scale and code that survives production.
+    I build scalable backend systems and production-ready ML pipelines.<br/>
+    Focused on performance, reliability, and real-world constraints.
   </p>
 
   <p>
@@ -23,36 +22,49 @@
 
 ---
 
-## ⚡ Tech Focus
+## ⚡ Tech Stack
 
 **Backend & APIs**
-- Node.js, FastAPI, REST APIs
-- Authentication, validation, error handling
+- Node.js, FastAPI
+- REST APIs, validation, authentication, error handling
 
-**Databases & Infra**
+**Databases & Infrastructure**
 - PostgreSQL, MongoDB
 - Docker, Linux
 
 **ML Systems**
-- PyTorch training & inference pipelines
-- Model serving via FastAPI
+- PyTorch (training + inference)
+- RAG pipelines, vector search (FAISS)
+- Model serving with FastAPI
 
 ---
 
-## 🔭 Current Focus
-- Building clean and testable backend services  
-- Understanding performance and concurrency fundamentals  
-- Designing ML inference pipelines that are production-ready  
+## 🔭 What I’m Working On
+- Designing clean, testable backend systems  
+- Learning performance, concurrency & system design fundamentals  
+- Building production-ready ML inference pipelines  
 
 ---
 
 ## 💼 Experience
+
 **AI/ML & Backend Intern — BISAG-N (Govt. of India)**  
-Worked on geospatial ML pipelines and backend infrastructure for real-world datasets.
+- Built geospatial ML pipelines on real-world datasets  
+- Worked on backend services for data processing & APIs  
+- Focused on reliability and scalable system design  
+
+---
+
+## 🚀 Projects (Highlights)
+- **RAG Chatbot (Streaming)**  
+  Retrieval-Augmented Generation system using FAISS + FLAN-T5 with Streamlit UI  
+
+- **ML Inference API**  
+  FastAPI-based service for serving trained models with low latency  
 
 ---
 
 ## 🧠 Engineering Principles
-- **Clarity > Cleverness**
-- **Fundamentals > Frameworks**
-- **Systems > Shortcuts**
+- Clarity > Cleverness  
+- Fundamentals > Frameworks  
+- Systems > Shortcuts  
