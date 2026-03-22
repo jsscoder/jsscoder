@@ -3,7 +3,7 @@
 
   <h1>Omkar Goje <span style="font-size: 0.6em; color: #8b949e;">(@jsscoder)</span></h1>
 
-  <h3>Backend Systems • ML Engineer</h3>
+  <h3>ML Engineer • Backend Systems</h3>
 
   <p>
     I build scalable backend systems and production-ready ML pipelines.<br/>
@@ -48,7 +48,7 @@
 
 ## 💼 Experience
 
-**AI/ML & Backend Intern — BISAG-N (Govt. of India)**  
+**ML Engineer Intern — BISAG-N (Govt. of India)**  
 - Built geospatial ML pipelines on real-world datasets  
 - Worked on backend services for data processing & APIs  
 - Focused on reliability and scalable system design  
