@@ -3,7 +3,7 @@
 
   <h1>Omkar Goje <span style="font-size: 0.6em; color: #8b949e;">(@jsscoder)</span></h1>
 
-  <h3>Backend Engineer • ML Systems</h3>
+  <h3>Backend Systems • ML Engineer</h3>
 
   <p>
     I build scalable backend systems and production-ready ML pipelines.<br/>
